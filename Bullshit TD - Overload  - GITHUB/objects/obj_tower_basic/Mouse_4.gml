@@ -1,0 +1,1 @@
+scr_tower_selected();

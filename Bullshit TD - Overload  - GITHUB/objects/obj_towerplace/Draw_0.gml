@@ -1,0 +1,1 @@
+draw_sprite(tower,0,x,y);
