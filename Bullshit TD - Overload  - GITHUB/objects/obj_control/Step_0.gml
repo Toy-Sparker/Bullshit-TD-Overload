@@ -1,7 +1,7 @@
 scr_waves();
 
 if(keyboard_check_pressed(vk_space)) {
-towerplace = obj_tower_basic;
+towerplace = obj_tower_brent;
 scr_tower_place();	
 }
 

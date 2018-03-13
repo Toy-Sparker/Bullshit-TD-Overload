@@ -2,7 +2,7 @@
     "id": "6eeecd68-410f-4805-bacd-7e2033a583e8",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_tower_basic",
+    "name": "obj_tower_brent",
     "eventList": [
         {
             "id": "28ad4789-51b6-4a7e-9500-d973de5e781d",
@@ -56,7 +56,16 @@
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "overriddenProperties": null,
+    "overriddenProperties": [
+        {
+            "id": "77db5955-33cf-48fe-a716-ff748401a2fa",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "7de1c5e6-e941-45be-8c6b-7e6f1252b0fc",
+            "propertyId": "1b4bbb26-73bf-42ed-82dd-b80690275cf1",
+            "value": "offense"
+        }
+    ],
     "parentObjectId": "7de1c5e6-e941-45be-8c6b-7e6f1252b0fc",
     "persistent": false,
     "physicsAngularDamping": 0.1,

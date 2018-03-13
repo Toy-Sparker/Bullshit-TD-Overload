@@ -217,6 +217,20 @@
             "value": "sanitiser",
             "varName": "team",
             "varType": 2
+        },
+        {
+            "id": "983a29c2-c92d-4715-aac3-db9412c00027",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "60 * 4",
+            "varName": "income_spd",
+            "varType": 4
         }
     ],
     "solid": false,

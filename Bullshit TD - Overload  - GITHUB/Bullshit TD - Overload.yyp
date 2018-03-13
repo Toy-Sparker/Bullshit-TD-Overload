@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "1ccbdb90-bb3a-45fe-8b35-333ec0c316a1",
+            "Value": {
+                "id": "81859cb4-4641-4549-9819-0c172e5e5466",
+                "resourcePath": "sprites\\spr_resource_tower1\\spr_resource_tower1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1f360128-19b5-4d5f-83a8-b3ef697160a2",
             "Value": {
                 "id": "f05c96f9-a592-472a-b386-265aa591221f",
@@ -210,7 +218,7 @@
             "Key": "6eeecd68-410f-4805-bacd-7e2033a583e8",
             "Value": {
                 "id": "6adadcc1-7fd5-4767-8a23-b6e22d1f4dd9",
-                "resourcePath": "objects\\obj_tower_basic\\obj_tower_basic.yy",
+                "resourcePath": "objects\\obj_tower_brent\\obj_tower_brent.yy",
                 "resourceType": "GMObject"
             }
         },
