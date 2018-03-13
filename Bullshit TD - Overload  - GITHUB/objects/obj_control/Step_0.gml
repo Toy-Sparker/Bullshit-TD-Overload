@@ -2,6 +2,7 @@ scr_waves();
 
 if(keyboard_check_pressed(vk_space)) {
 towerplace = obj_tower_brent;
+towersprite = spr_brent_tower1_down;
 scr_tower_place();	
 }
 

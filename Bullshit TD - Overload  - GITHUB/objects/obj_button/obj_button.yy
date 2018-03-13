@@ -67,7 +67,7 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "noone",
-            "varName": "tower",
+            "varName": "towerplace",
             "varType": 5
         }
     ],
