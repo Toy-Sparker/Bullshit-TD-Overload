@@ -13,6 +13,26 @@
             "enumb": 0,
             "eventtype": 3,
             "m_owner": "e0b96902-f42d-4d5a-b30f-e8165044e07d"
+        },
+        {
+            "id": "2e9acd6f-6d0e-4109-bd67-100c9d0bcebb",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "e0b96902-f42d-4d5a-b30f-e8165044e07d"
+        },
+        {
+            "id": "4b259c28-b0ed-414d-927c-97f95adc2681",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "e0b96902-f42d-4d5a-b30f-e8165044e07d"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -73,9 +93,23 @@
             "value": "noone",
             "varName": "towersprite",
             "varType": 5
+        },
+        {
+            "id": "a99477f1-f5ac-4643-ad61-9e8957bb18c9",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "pineapple",
+            "varName": "info",
+            "varType": 2
         }
     ],
     "solid": false,
     "spriteId": "22382edf-ad2f-45b1-b5d6-55c5ae635f46",
-    "visible": false
+    "visible": true
 }

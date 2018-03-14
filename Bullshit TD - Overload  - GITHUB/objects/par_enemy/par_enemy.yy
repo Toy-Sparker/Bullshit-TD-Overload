@@ -69,6 +69,20 @@
             "value": "4",
             "varName": "hp",
             "varType": 0
+        },
+        {
+            "id": "06d95912-be23-4e1d-a2b3-1a94f53bc500",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "2",
+            "varName": "earn",
+            "varType": 0
         }
     ],
     "solid": false,

@@ -8,5 +8,6 @@ if(atkspd <= 0) {
 		atk = atk + other.atk;
 		spd = spd + 2;
 	}
+	audio_play_sound(snd_plasma1,0,false);
 	atkspd = atkspd_max;
 }
