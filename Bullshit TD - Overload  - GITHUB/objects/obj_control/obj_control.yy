@@ -73,6 +73,16 @@
             "enumb": 2,
             "eventtype": 2,
             "m_owner": "73f10de6-d433-4dab-ab75-e012ff998f18"
+        },
+        {
+            "id": "18f8df13-98f8-4e4a-9af4-5d2687bf6086",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 3,
+            "eventtype": 2,
+            "m_owner": "73f10de6-d433-4dab-ab75-e012ff998f18"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -187,7 +197,7 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "0",
-            "varName": "pay",
+            "varName": "payment",
             "varType": 0
         },
         {

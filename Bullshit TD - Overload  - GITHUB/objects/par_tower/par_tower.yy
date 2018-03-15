@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "par_tower",
     "eventList": [
-        
+        {
+            "id": "47ecb7d9-aa96-42d4-b78a-eb900a04ce77",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "7de1c5e6-e941-45be-8c6b-7e6f1252b0fc"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

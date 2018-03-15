@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "12967d3c-445e-4ede-addf-fe17fc21f442",
+            "Value": {
+                "id": "4e0a4ac1-9c85-4b7b-a05a-fef9ff835494",
+                "resourcePath": "objects\\obj_button_upgrade\\obj_button_upgrade.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "138e68bf-b979-4ebc-bc05-cdb756c4c0f9",
             "Value": {
                 "id": "a54e962e-7e9c-4cfe-bf70-62066c025aca",
@@ -463,6 +471,14 @@
             }
         },
         {
+            "Key": "c68b1c9e-d1f8-474b-a850-0248de62fae8",
+            "Value": {
+                "id": "89f6dba0-58a9-4d7c-a230-0b9fc84872f6",
+                "resourcePath": "scripts\\scr_tower_upgrade\\scr_tower_upgrade.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "cb2a6e0b-64da-49c8-932d-69268c1221e9",
             "Value": {
                 "id": "ff6cb8d5-85e6-47dc-a83c-0ecb736e2e3d",
@@ -543,6 +559,14 @@
             }
         },
         {
+            "Key": "e06a1311-6e94-4482-93d2-14a52c91240d",
+            "Value": {
+                "id": "832e808c-8047-423a-811f-195648c022e6",
+                "resourcePath": "sprites\\spr_upgrade_button\\spr_upgrade_button.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e0b96902-f42d-4d5a-b30f-e8165044e07d",
             "Value": {
                 "id": "5bdf4e41-eaa9-463d-b4d1-c62e8503136d",
@@ -598,7 +622,8 @@
         "6fb128c7-d0fe-4f17-815f-5023582151da",
         "830412f8-5145-45b6-b31d-51a805362024",
         "9c6e282d-937f-4557-b4cd-2726763edf83",
-        "c16c16d6-c32a-474a-ab73-1e487ade6ee3"
+        "c16c16d6-c32a-474a-ab73-1e487ade6ee3",
+        "c68b1c9e-d1f8-474b-a850-0248de62fae8"
     ],
     "tutorial": ""
 }
