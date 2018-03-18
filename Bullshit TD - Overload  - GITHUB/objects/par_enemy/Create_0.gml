@@ -1,1 +1,1 @@
-path = path_start(pth_greenland,spd,0,1);
+path = path_start(global.pth,spd,0,1);

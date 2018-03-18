@@ -15,8 +15,3 @@ if(instance_exists(target)) {
 	} else {
 	state = scr_tower_basic_idle;
 }
-
-switch(upgrade) {
-case 0: atkspd = 30; break;
-case 1: atkspd = 15; break;
-}

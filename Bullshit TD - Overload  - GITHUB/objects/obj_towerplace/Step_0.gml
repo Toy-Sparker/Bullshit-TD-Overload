@@ -2,7 +2,7 @@ x = mouse_x;
 y = mouse_y;
 
 if(mouse_check_button_released(mb_left)) {
-	instance_create_layer(x,y,"Grid",tower);
+	instance_create_layer(x,y,"Towers",tower);
 	instance_destroy();
 }
 

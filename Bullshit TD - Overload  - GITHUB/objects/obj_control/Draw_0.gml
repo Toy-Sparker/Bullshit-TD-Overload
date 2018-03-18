@@ -1,4 +1,4 @@
-draw_path(pth_greenland,x,y,1);
+draw_path(global.pth,x,y,1);
 
 if(selected != noone) {
 	draw_set_alpha(0.25);
