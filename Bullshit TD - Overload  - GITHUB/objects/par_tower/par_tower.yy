@@ -65,6 +65,20 @@
             "value": "\"\"",
             "varName": "type",
             "varType": 2
+        },
+        {
+            "id": "487c246e-cd61-4401-9140-b45c999c18ad",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "\"\"",
+            "varName": "who",
+            "varType": 2
         }
     ],
     "solid": false,

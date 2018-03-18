@@ -84,6 +84,14 @@
             "objectId": "7de1c5e6-e941-45be-8c6b-7e6f1252b0fc",
             "propertyId": "1b4bbb26-73bf-42ed-82dd-b80690275cf1",
             "value": "offense"
+        },
+        {
+            "id": "9bf45631-86a1-4cd1-90ff-61a00ad99b5a",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "7de1c5e6-e941-45be-8c6b-7e6f1252b0fc",
+            "propertyId": "487c246e-cd61-4401-9140-b45c999c18ad",
+            "value": "brent"
         }
     ],
     "parentObjectId": "7de1c5e6-e941-45be-8c6b-7e6f1252b0fc",
@@ -183,6 +191,20 @@
             "resourceFilter": 1023,
             "value": "0",
             "varName": "upgrade",
+            "varType": 0
+        },
+        {
+            "id": "491ebc82-1303-43f9-87f6-77e955915333",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "2",
+            "varName": "velocity",
             "varType": 0
         }
     ],
